@@ -1,0 +1,50 @@
+{
+  "name": "bet-poroject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@socit/react-persian-datepicker": "^0.3.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.21.4",
+    "axios": "^0.19.2",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "react": "^16.14.0",
+    "react-countdown-now": "^2.1.2",
+    "react-datepicker2": "^3.3.13",
+    "react-dom": "^16.14.0",
+    "react-icons": "^3.11.0",
+    "react-moment": "^0.9.7",
+    "react-persian-calendar": "^1.0.3",
+    "react-persian-datepicker": "^3.0.2",
+    "react-router": "^5.3.3",
+    "react-router-dom": "^5.3.3",
+    "react-scripts": "3.4.0",
+    "react-timezone": "^2.4.0",
+    "vazir-font": "^22.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
